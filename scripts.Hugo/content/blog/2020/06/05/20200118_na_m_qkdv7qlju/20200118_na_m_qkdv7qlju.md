@@ -1,0 +1,45 @@
+---
+title : "采姐姐的故事王國_Lillian's_Story_Kingdom:【經典故事】飛天箱 | The Flying Trunk | 欺騙別人的教訓 - 粵語 "
+title2 : "【經典故事】飛天箱 | The Flying Trunk | 欺騙別人的教訓 - 粵語 "
+info2 : "一個繼承了爸爸遺產的商人兒子，任意花費爸爸的遺產；最後身上所有的東西都被他花光。有一個好心的朋友給他一個飛天箱，他利用了飛天箱偷偷飛進土耳其公主，還欺騙公主他是土耳其的神，還向公主求婚。就在他與公主結婚當晚，飛天箱被他燒了。。。究竟發生什麼事呢？  商人兒子欺騙公主，欺騙的行為是不對的，商人兒子有否得到他的教訓呢？  ＊適讀年齡：7歲以上  #睡前小故事 #經典 #聲音演繹 #反思 #日常 #共同點 #廣東話 #安徒生#兒童 #小朋友 #幼兒 #小學 #停課不停學 #Bedtime #Story #Reflection #Learning #Cantonese "
+date:        2020-06-05T21:05:31-07:00
+author:
+ - youtube_采姐姐的故事王國_Lillian's_Story_Kingdom
+tags:
+ - youtube
+ - 采姐姐的故事王國_Lillian's_Story_Kingdom
+ - youtube_采姐姐的故事王國_Lillian's_Story_Kingdom
+ - 2020_06
+ - 2020_0605
+ - 2020_0605_21
+categories:
+ - 2020_0605
+#icon:        "fas fa-lock-open"
+#resImgTeaser: teaserpics/wikipedia.org/emacs-jokes.png
+---
+
+{{< mydiv text="采姐姐的故事王國_Lillian's_Story_Kingdom:一個繼承了爸爸遺產的商人兒子，任意花費爸爸的遺產；最後身上所有的東西都被他花光。有一個好心的朋友給他一個飛天箱，他利用了飛天箱偷偷飛進土耳其公主，還欺騙公主他是土耳其的神，還向公主求婚。就在他與公主結婚當晚，飛天箱被他燒了。。。究竟發生什麼事呢？  商人兒子欺騙公主，欺騙的行為是不對的，商人兒子有否得到他的教訓呢？  ＊適讀年齡：7歲以上  #睡前小故事 #經典 #聲音演繹 #反思 #日常 #共同點 #廣東話 #安徒生#兒童 #小朋友 #幼兒 #小學 #停課不停學 #Bedtime #Story #Reflection #Learning #Cantonese "
+>}}
+<br>
+
+
+{{< my2mp4withjpgdownload mp4="20200118_na_m_qkdv7qlju.mp4"
+>}}
+
+{{< my2jpgexist "xx1.jpg" >}}<br>
+{{< my2jpgexist "xx2.jpg" >}}<br>
+{{< my2jpgexist "xx3.jpg" >}}<br>
+
+
+
+{{< mydiv text="采姐姐的故事王國_Lillian's_Story_Kingdom:【經典故事】飛天箱 | The Flying Trunk | 欺騙別人的教訓 - 粵語 "
+>}}
+<br>
+
+{{< my2linktextonly link="https://www.youtube.com/watch?v=M-QkdV7QljU"
+>}}
+
+
+<br>
+
+{{< my2buttoncopy2clip "music.xspf"        "blue"   "red"    " 单曲 "  "复制 VLC 播放器使用的链接：单曲" >}} {{< my2buttoncopy2clip "/all.xspf"         "green"  "black"  " 全部 "  "复制 VLC 播放器使用的链接：全部" >}} {{< my2buttoncopy2clip "music.m3u8"        "blue"   "red"    " M3U  "    "复制 M3U 播放器使用的链接：单曲" >}} {{< mybr2 >}} {{< my2buttoncopy2clip ""                  "green"  "black"  " 本页 "    "复制 本页的网址 " >}} {{< my2buttoncopy2clip "/"                 "black"  "red"    " 主站 "    "复制 主站的网址 " >}} {{< mybr2 >}} {{< my2buttongoto      "/hot/endothers/"   "blue"   "red"    " 月份"   "转到月份总目录" >}} {{< my2buttongoto      "/hot/alltags/"     "green"  "blue"   " 列表"   "转到文章总列表" >}} {{< my2buttongoto      "/hot/helpxspf/"    "green"  "blue"   " 播放器" "如何使用 VLC 播放器或者 IPTV 播放器的教程" >}} 
