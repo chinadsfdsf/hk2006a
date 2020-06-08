@@ -12,8 +12,8 @@ categories:
 ---
 
 {{< siteParamsRecentPostsTitle >}} 
-
 {{< my2buildtime "buildtime 创建时间" >}}
+{{< my2linktextonly link="/time/001/" cn=" 全球不同地区时间 " >}}
 
 {{< mydiv4o link="https://hk01.chinadsf.org/"     text="hk01     2020年1月之前的新聞">}}
 {{< mydiv4o link="https://hk2001.chinadsf.org/"   text="hk2001   2020年1月的新聞">}}
